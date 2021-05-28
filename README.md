@@ -1,4 +1,4 @@
-# LWZ-encoding-decoding-algorithms
+# LWZ encoding decoding algorithms
 
 The Lempel Ziv Welch algorithm is a lossless data compression algorithm. 
 LZW is an adaptive compression algorithm that does not assume prior knowledge of the input data distribution. 
